@@ -1,56 +1,55 @@
 # QA Testing Project – Urban Scooter
 
-This repository contains a **QA testing project developed during a QA Engineer course**, focused on testing the **Urban Scooter** application across **web, mobile, and API layers**.
+## 📌 Project Overview
+This project was developed as part of a QA Engineer training program.  
+The objective was to test the **Urban Scooter** application across multiple platforms to ensure quality, functionality, and reliability.
 
-The project applies **software quality assurance best practices**, preventive thinking, and structured testing methodologies.
-
----
-
-## 🔍 Project Scope
-
-The Urban Scooter application was tested on:
-- 🌐 Web application
-- 📱 Mobile application
-- 🔗 API endpoints
+Testing was performed on:
+- Web application
+- Mobile application
+- API services
 
 ---
 
-## 🧪 Testing Activities Performed
+## 🧪 Scope of Testing
+The following QA activities were completed:
 
-### ✔ Web Testing
-- Checklist-based testing
-- Functional test cases
-- Bug reporting for the web application
-
-### ✔ Mobile Testing
-- Checklist execution
+- Creation of test checklists
+- Design and execution of test cases
 - Functional and exploratory testing
-- Bug reporting for the mobile application
-
-### ✔ API Testing
-- API test cases
-- Validation of response bodies and status codes
-- API test results documentation
+- Mobile application testing
+- API testing
+- Bug identification and reporting
+- Test result documentation
 
 ---
 
-## 📂 Repository Structure
-- Checklists/
-- Test-cases/
-- Bug-reports/
-- API-testing/
+## 📂 Project Structure
+checklists/      → Listas de verificación QA
+test-cases/      → Casos de prueba (web y móvil)
+bug-reports/     → Reportes de errores
+api-testing/     → Casos y resultados de pruebas API
 
 ---
 
-## 🧠 QA Skills Applied
-- Manual testing
-- Test case design
-- Checklist-based testing
-- Bug reporting
-- Web, Mobile, and API testing fundamentals
-- Risk-based and prevention-oriented testing
+## 🛠 Tools & Techniques
+- Manual Testing
+- Test Case Design
+- Checklist-based Testing
+- Bug Reporting
+- API Testing (Postman)
+- Web & Mobile Testing
 
 ---
 
-## 📌 Notes
-This project was created for learning and portfolio purposes as part of a QA Engineer training program.
+## ✅ Key Outcomes
+- Ensured application stability through structured testing
+- Identified and documented functional defects
+- Validated core workflows across platforms
+- Strengthened quality through prevention-focused testing
+
+---
+
+## 👩‍💻 Author
+**Jessi Jiménez**  
+QA Engineer | Software Quality Assurance
