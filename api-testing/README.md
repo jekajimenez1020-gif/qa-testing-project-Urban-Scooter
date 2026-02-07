@@ -1,11 +1,9 @@
-## API Testing
+## API Testing – Urban Scooter
 
-This folder contains API testing documentation for the Urban Scooter application.
+This folder contains API testing checklists for Urban Scooter backend services.
 
-The following activities were performed:
-- API test case creation
-- Validation of request and response data
-- Status code verification
-- Basic API test result documentation
+### Tested Endpoints
+- Delivery service endpoints
+- Orders service endpoints
 
-API testing was performed to ensure proper backend functionality and data integrity.
+API testing focused on validating responses, status codes, and data integrity.
