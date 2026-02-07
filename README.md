@@ -51,5 +51,5 @@ api-testing/     → Casos y resultados de pruebas API
 ---
 
 ## 👩‍💻 Author
-**Jessi Jiménez**  
+**Jessica Jiménez**  
 QA Engineer | Software Quality Assurance
