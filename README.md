@@ -1,53 +1,38 @@
 # QA Testing Project – Urban Scooter
 
+This repository contains a complete Quality Assurance testing project for the **Urban Scooter** application, developed as part of a QA Engineer training program.
+
 ## 📌 Project Overview
-This project was developed as part of a QA Engineer training program.  
-The objective was to test the **Urban Scooter** application across multiple platforms to ensure quality, functionality, and reliability.
+Urban Scooter is a delivery application available on web and mobile platforms.
+The goal of this project was to validate core functionalities, ensure data integrity, and verify system behavior across different platforms.
 
-Testing was performed on:
-- Web application
-- Mobile application
-- API services
-
----
-
-## 🧪 Scope of Testing
-The following QA activities were completed:
-
-- Creation of test checklists
-- Design and execution of test cases
-- Functional and exploratory testing
+## 🔍 Scope of Testing
+- Web application testing
 - Mobile application testing
 - API testing
-- Bug identification and reporting
-- Test result documentation
-
----
 
 ## 📂 Project Structure
-checklists/      → Listas de verificación QA
-test-cases/      → Casos de prueba (web y móvil)
-bug-reports/     → Reportes de errores
-api-testing/     → Casos y resultados de pruebas API
-
----
+- **checklists/** – Web application QA checklists
+- **test-cases/** – Mobile application test cases
+- **api-testing/** – API testing checklists
+- **bug-reports/** – Bug reports exported from Jira
 
 ## 🛠 Tools & Techniques
-- Manual Testing
-- Test Case Design
-- Checklist-based Testing
-- Bug Reporting
-- API Testing (Postman)
-- Web & Mobile Testing
+- Manual testing
+- Test case and checklist design
+- Boundary Value Analysis
+- API testing
+- Bug tracking with Jira
+- Excel-based documentation
+
+## 🌐 Test Environments
+- Web: Google Chrome, Opera
+- Mobile: Android
+- API: REST services
 
 ---
 
-## ✅ Key Outcomes
-- Ensured application stability through structured testing
-- Identified and documented functional defects
-- Validated core workflows across platforms
-- Strengthened quality through prevention-focused testing
-
+📩 This repository showcases real QA artifacts and testing documentation.
 ---
 
 ## 👩‍💻 Author
