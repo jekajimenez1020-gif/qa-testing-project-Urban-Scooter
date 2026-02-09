@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#S1-19] El pedido cancelado sigue siendo visible después de eliminarlo</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://tatis9102.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [S1-19]&nbsp;<a href="https://tatis9102.atlassian.net/browse/S1-19">El pedido cancelado sigue siendo visible después de eliminarlo</a>
+            <span class="subText">
+               Creada: 30/dic/25                   &nbsp;Actualizada: 30/dic/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Estado:</b></td>
+        <td width="80%">Tareas por hacer</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Proyecto:</b></td>
+        <td width="80%"><a href="https://tatis9102.atlassian.net/secure/BrowseProject.jspa?id=10002">Sprint 10</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones afectadas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones corregidas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Error
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridad:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Informador:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:db638182-39f6-4ef2-8c50-42624c983bfd"
+                id="word_reporter_712020:db638182-39f6-4ef2-8c50-42624c983bfd"
+                href="https://tatis9102.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Adb638182-39f6-4ef2-8c50-42624c983bfd">
+                    Jessica Tatiana Jiménez López
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Persona asignada:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    sin asignar
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolución:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Sin resolver
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etiquetas:</b>
+        </td>
+        <td id="labels-10099-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Ninguno
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Trabajo restante estimado:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tiempo Trabajado:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimación original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Entorno:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Google Chrome: Versión 143.0.7499.170 (Build oficial) (64 bits)</p>
+
+<p>Opera: Opera One(versión: 125.0.5729.49)</p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Adjuntos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://tatis9102.atlassian.net/images/icons/attach/file.gif" height="16" width="16" border="0" alt="Archivo">
+                    2025-12-30 11-12-13.mp4 &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+    
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descripción</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>En la app Urban Scooter, El pedido cancelado no se elimina del sistema, el usuario o usuaria puede verlo después de haberlo cancelado.</p>
+
+<p><b>Pasos Previos:</b></p>
+
+<ol>
+	<li>Abrir la aplicación web Urban Scooter</li>
+	<li>Aceptar todas las cookies</li>
+	<li>Hacer un pedido</li>
+	<li>Hacer clic en “Comprueba el estado”</li>
+</ol>
+
+
+<p><b>Pasos a seguir:</b></p>
+
+<ol>
+	<li>Hacer clic en el botón “Cancelar el pedido”</li>
+	<li>hacer clic en el botón “Cancelar” de la ventana emergente ¿Deseas cancelar el pedido?</li>
+	<li>hacer clic en el botón “Bien” en la ventana emergente “El pedido ha sido cancelado”</li>
+	<li>Se  visualiza la pantalla de inicio de la app web Urban Scooter</li>
+	<li>Hacer clic en el campo “Estado del pedido” y rellenar con el numero del pedido ejemplo “152939”</li>
+	<li>Dar clic en el botón “Vamos”</li>
+</ol>
+
+
+<p><b>Resultado esperado:</b></p>
+
+<p>El pedido cancelado se elimina del sistema, el usuario o usuaria no puede verlo.</p>
+
+<p><b>Resultado actual:</b></p>
+
+<p>El pedido cancelado aparece en el sistema aun después de haber sido eliminado. </p>
+
+<p><b>Severidad:</b></p>
+
+<p>Critico - Grave</p>
+
+<p><b>Materiales adicionales:</b></p>
+
+<p><div class="embeddedObject"><object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="https://www.apple.com/qtactivex/qtplugin.cab" data="/rest/api/3/attachment/content/10083?stream=true" height="380" type="video/mp4" width="635" ><param name="data" value="/rest/api/3/attachment/content/10083?stream=true"/><param name="src" value="/rest/api/3/attachment/content/10083?stream=true"/><param name="type" value="video/mp4"/><embed height="380" pluginspage="https://www.apple.com/quicktime/download/" src="/rest/api/3/attachment/content/10083?stream=true" type="video/mp4" width="635" /></object></div></p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generado a las Sat Feb 07 22:18:07 UTC 2026 por Jessica Tatiana Jiménez López usando JIRA 1001.0.0-SNAPSHOT#100290-rev:9d700605f271b9e38f3e73c4116a686dae8d11d7.
+
+</body>
+</html>
